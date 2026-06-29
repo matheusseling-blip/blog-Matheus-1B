@@ -1,12 +1,17 @@
 .cabecalho {
-    background-color:rgb(111, 150, 255)
-    
+    background-color:rgb(111, 150, 255);
+    color: white;
     text-align: center;
     max-width:800px;
+    margin: 0 auto;
+    padding: 16px;
 }
 .conteudo-principal{
     background-color: blue;
     color: black;
+}
 
-
+img{
+width: 80px;
+height: 80px;
 }
