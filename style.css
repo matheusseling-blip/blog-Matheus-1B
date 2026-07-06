@@ -1,5 +1,5 @@
 .cabecalho {
-    background-color:rgb(51, 255, 0);
+    background-color:rgb(222, 226, 0);
     color: white;
     text-align: center;
     max-width:800px;
@@ -9,6 +9,9 @@
 .conteudo-principal{
     background-color: rgb(7, 136, 61);
     color: black;
+    max-width:800px;
+    margin: 0 auto;
+    padding: 20px;
 }
 
 img{
@@ -21,4 +24,8 @@ height: 400px;
 }
 .conteudo-principal-texto{
     font-weight: bold;
+}
+.imagem-principal{
+    width: 650px;
+    height: 550px;
 }
